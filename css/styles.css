@@ -1,0 +1,15 @@
+/* Common styles */
+body {
+font-family: Roboto, sans-serif;
+}
+ul, ol {
+    list-style: none;
+}
+a {
+text-decoration: none;
+color: currentColor
+}
+button {
+    font-family: inherit;
+    cursor: pointer;
+}
