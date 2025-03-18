@@ -1,4 +1,24 @@
-/* Common styles */
+:root {
+--primary-cl: #4d5ae5;
+--primary-active-cl: #404bbf;
+--main-dark-cl: #2E2F42;
+--success-cl: #31D0AA;
+--tx-main:#434455;
+--tx-subtle: #8E8F99;
+--accent-light-cl: #E7E9FC;
+--light-cl: #F4F4FD;
+--modal-overlay-cl: #2E2F42;
+--bg-hero: #2E2F42;
+--bg-main-light: #FFFFFF;
+--bg-modal: #FCFCFC;
+
+}
+
+/**
+  |============================
+  | Common styles
+  |============================
+*/
 body {
 font-family: Roboto, sans-serif;
 }
@@ -13,3 +33,57 @@ button {
     font-family: inherit;
     cursor: pointer;
 }
+address {
+    font-style: normal;
+}
+
+/**
+  |============================
+  | Base styles
+  |============================
+*/
+.section {
+
+}
+
+.title {
+
+}
+
+.subtitle {
+    /* letter-spacing: normal; */
+}
+
+.page {}
+
+/**
+  |============================
+  | Header styles
+  |============================
+*/
+
+.header {}
+
+.header-nav {}
+
+.header-contacts {}
+
+.logo {}
+
+.header-list {}
+
+.header-contacts-item {}
+
+.logo-dark-part {}
+
+.header-item {}
+
+.header-link {}
+
+.header-contacts-link {}
+
+/**
+  |============================
+  | 
+  |============================
+*/
