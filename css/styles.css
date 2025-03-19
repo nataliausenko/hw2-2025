@@ -56,6 +56,21 @@ address {
 
 .page {}
 
+.main {}
+
+.hidden-element {}
+
+/**
+  |============================
+  | Logo styles
+  |============================
+*/
+.logo {}
+
+.logo-dark-part {}
+
+.logo-light-part{}
+
 /**
   |============================
   | Header styles
@@ -66,21 +81,20 @@ address {
 
 .header-nav {}
 
-.header-contacts {}
-
-.logo {}
-
 .header-list {}
-
-.header-contacts-item {}
-
-.logo-dark-part {}
 
 .header-item {}
 
 .header-link {}
 
+.header-contacts {}
+
+.header-contacts-item {}
+
 .header-contacts-link {}
+
+
+/* Index styles */
 
 /**
   |============================
@@ -88,3 +102,88 @@ address {
   |============================
 */
 
+.hero {}
+
+.hero-title {}
+
+.hero-button {}
+
+/**
+  |============================
+  | Our advantages
+  |============================
+*/
+
+.advantages {}
+
+.advantages-list {}
+
+.advantages-cards {}
+
+.advantages-description {}
+
+/**
+  |============================
+  | What are we doing
+  |============================
+*/
+
+.what-are {}
+
+.what-list {}
+
+.what-card {}
+
+.what-img {}
+
+/**
+  |============================
+  | Our team 
+  |============================
+*/
+
+.team {}
+
+.team-list {}
+
+.team-card {}
+
+.team-img {}
+
+.team-description {}
+
+/**
+  |============================
+  | Footer 
+  |============================
+*/
+.footer {}
+
+.footer-text {}
+
+
+/* Portfolio styles */
+
+/**
+  |============================
+  | Portfolio section
+  |============================
+*/
+
+ .portfolio {}
+
+ .portfolio-list {}
+
+ .portfolio-elem {}
+
+ .portfolio-button {}
+
+ .portf-projects-list {}
+
+ .portf-projects-cards {}
+
+ .portf-projects-link {}
+
+ .portf-projects-img {}
+
+ .portf-projects-desc {}
