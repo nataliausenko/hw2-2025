@@ -30,7 +30,22 @@ color: var(--tx-main);
 
 ul, ol {
     list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 a {
 text-decoration: none;
 color: currentColor
@@ -118,7 +133,7 @@ address {
   color: var(--main-dark-cl)}
 
 .header-link:hover, .header-link:focus{
-color: var(--primary-active-cl);
+color: var(--primary-active-cl);s
 }
 
 .header-contacts {}
