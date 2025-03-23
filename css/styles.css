@@ -58,6 +58,11 @@ address {
     font-style: normal;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+}
+
 /**
   |============================
   | Base styles
