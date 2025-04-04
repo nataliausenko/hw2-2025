@@ -30,9 +30,8 @@ color: var(--tx-main);
 
 ul, ol {
     list-style: none;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
 }
 
 h1,
@@ -42,8 +41,7 @@ h4,
 h5,
 h6,
 p {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 a {
