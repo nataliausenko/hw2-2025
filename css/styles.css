@@ -66,6 +66,12 @@ img {
   | Base styles
   |============================
 */
+
+.container{
+margin: 0 auto;
+width: 1128px;
+}
+
 .section {
 
 }
